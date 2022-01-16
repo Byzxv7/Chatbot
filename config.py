@@ -1,8 +1,8 @@
 import os
 
-TOKEN = os.environ.get("TOKEN", "1960247583:AAEls_RRZr-Lu54aPdH3JWkN--9t-V2o-bM")
-ADMIN = int(os.environ.get("ADMIN", "1430773637"))
-OWNER = os.environ.get("OWNER", "Bydznesiaaa")
-GROUP = os.environ.get("GROUP", "musikkugroup")
-CHANNEL = os.environ.get("CHANNEL", "rpchatbotxx")
-PROJECT_NAME = os.environ.get("PROJECT_NAME", "roleplay chat bot")
+TOKEN = os.environ.get("TOKEN", "5020529609:AAHPDjUDupys4wX5_cndpRCjM6Ve05TgrEo")
+ADMIN = int(os.environ.get("ADMIN", "2134190388"))
+OWNER = os.environ.get("OWNER", "Xdcv7")
+GROUP = os.environ.get("GROUP", "bandarpinguinxxx")
+CHANNEL = os.environ.get("CHANNEL", "bandarpinguinxx")
+PROJECT_NAME = os.environ.get("PROJECT_NAME", "Anonymous Chat 18+")
