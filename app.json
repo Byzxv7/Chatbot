@@ -29,7 +29,7 @@
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required": true,
-      "value": "bandarpinguinxx"
+      "value": "rpchatbotxx"
     }
   }
 }
