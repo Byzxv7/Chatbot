@@ -24,7 +24,7 @@
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": true,
-      "value": "Anonymous Chat 18+"
+      "value": "Roleplay chat bot"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
