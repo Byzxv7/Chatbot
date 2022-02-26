@@ -6,7 +6,7 @@
   "env": {
     "ADMIN": {
       "description": "Isi dengan id admin",
-      "value": "5202965388"
+      "value": "1430773637"
     },
     "TOKEN": {
       "description": "Dapatkan di @botfather",
