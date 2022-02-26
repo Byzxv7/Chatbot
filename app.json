@@ -6,30 +6,30 @@
   "env": {
     "ADMIN": {
       "description": "Isi dengan id admin",
-      "value": "2134190388"
+      "value": "5202965388"
     },
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": "1960247583:AAEls_RRZr-Lu54aPdH3JWkN--9t-V2o-bM"
+      "value": "5202965388:AAE5fHXK7o-euB0X5vsKqQ6541ndjHCzbHY"
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "Xdcv7"
+      "value": ""
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required":true,
-      "value": "bandarpinguinxxx"
+      "value": "vexana0x"
     },
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": true,
-      "value": "Roleplay chat bot"
+      "value": "Roleplayer bot"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required": true,
-      "value": "rpchatbotxx"
+      "value": "vexana0x"
     }
   }
 }
