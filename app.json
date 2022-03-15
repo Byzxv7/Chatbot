@@ -6,11 +6,11 @@
   "env": {
     "ADMIN": {
       "description": "Isi dengan id admin",
-      "value": "1430773637"
+      "value": ""
     },
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": "5202965388:AAE5fHXK7o-euB0X5vsKqQ6541ndjHCzbHY"
+      "value": ""
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
@@ -19,17 +19,17 @@
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required":true,
-      "value": "vexana0x"
+      "value": ""
     },
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": true,
-      "value": "Roleplayer bot"
+      "value": ""
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required": true,
-      "value": "vexana0x"
+      "value": ""
     }
   }
 }
